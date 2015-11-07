@@ -9,7 +9,7 @@ Should work in MySQL Workbench versions 6.x.
 - Does not fix naming convention violations, only points them out
 
 ## Installation
-1. Download the latest [release](releases/)
+1. Download the latest [release](https://github.com/drasive/mysql-workbench-naming-validator/releases)
 2. Open MySQL Worbench
 3. Navigate to `Scripting` > `Install Plugin/Module...`
 4. Browse and select the downloaded file `mysql-workbench-naming-validator.py`
@@ -35,7 +35,7 @@ This can be done through the MySQL Worbench and is called "[Reverse Engineering]
 ## Validation rules
 At the time, only the following set of validation rules is available.  
 There may be a few situations in which some rules don't make sense or can't be satisfied.
-If you encounter such a situation, please create an [issue](issues/).  
+If you encounter such a situation, please create an [issue](https://github.com/drasive/mysql-workbench-naming-validator/issues).  
 Some detected violations may be connected to previous violations, I would advise fixing them in order.
 
 ### Tables
