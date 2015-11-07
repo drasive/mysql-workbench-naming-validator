@@ -14,7 +14,7 @@ import traceback
 
 ModuleInfo = DefineModule(name="NamingValidator",
   author="Dimitri Vranken <me@dimitrivranken.com>",
-  version="1.0.0",
+  version="1.0.1",
   description="MySQL Workbench plugin to validate the naming in a model diagram (ERM).")
 @ModuleInfo.plugin("dimitri_vranken.naming_validator",
   caption="Naming Validator",
