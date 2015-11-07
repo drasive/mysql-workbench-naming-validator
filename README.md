@@ -35,7 +35,8 @@ This can be done through the MySQL Worbench and is called "[Reverse Engineering]
 ## Validation rules
 At the time, only the following set of validation rules is available.  
 There may be a few situations in which some rules don't make sense or can't be satisfied.
-If you encounter such a situation, please create an [issue](issues/).
+If you encounter such a situation, please create an [issue](issues/).  
+Some detected violations may be connected to previous violations, I would advise fixing them in order.
 
 ### Tables
 - Must start with `tbl_`
